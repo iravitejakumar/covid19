@@ -18,7 +18,7 @@ function ResourcePlanning() {
                 <div className="col-4 row">
                     <div className="col-6">
                         <label htmlFor="state">Selected State</label>
-                        <select className="form-control" id="exampleFormControlSelect1">
+                        <select className="form-control" id="state">
                             <option>1</option>
                             <option>2</option>
                             <option>3</option>
@@ -27,8 +27,8 @@ function ResourcePlanning() {
                         </select>
                     </div>
                     <div className="col-6">
-                        <label htmlFor="exampleFormControlSelect1">Selected District</label>
-                        <select className="form-control" id="exampleFormControlSelect1">
+                        <label htmlFor="district">Selected District</label>
+                        <select className="form-control" id="district">
                             <option>1</option>
                             <option>2</option>
                             <option>3</option>
